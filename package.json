@@ -2,7 +2,7 @@
 	"name": "typescript-boilerplate",
 	"version": "1.0.0",
 	"description": "Simple typescript project boilerplate",
-	"main": "src/index.ts",
+	"main": "dist/index.js",
 	"repository": "https://github.com/Ruivalim/typescript-boilerplate.git",
 	"scripts":{
 		"build": "tsc",
